@@ -2,7 +2,7 @@ from time import sleep
 from sense_hat import SenseHat
 
 # Link to the external Sense HAT sensor
-sense = Sensehat()
+sense = SenseHat()
 
 # Constant values for colors
 TRAFFIC_LIGHT_GREEN = [50, 164, 49]
